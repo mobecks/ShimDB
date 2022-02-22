@@ -1,4 +1,4 @@
-#Shimming Database (ShimDB)
+# Shimming Database (ShimDB)
 
 ShimDB is a collection of 1H NMR signals recorded under the application of shim coil fields and allows inference of changes to the NMR spectrum or FID depending on shim offsets.
 
