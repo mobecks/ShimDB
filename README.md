@@ -8,7 +8,7 @@ ShimDB is a collection of 1H NMR signals recorded under the application of shim 
 
 RandomShimDB is a subset of the NMR shimming database ShimDB and contains over 15000 instances under application of **random** shim offsets to the **X,Y,Z and Z2 shims**. Data is acquired on a Spinsolve 80 Carbon spectrometer (Magritek GmbH, Aachen, Germany, www.magritek.com) using 5%vv H2O in D2O and a water solution with CuSO4 (5mmol/L). 
 
-LinearShimDB is part of "Acquisitions with random shim values enhance AI-driven NMR shimming" by M. Becker et al. [1].
+RandomShimDB is part of "Acquisitions with random shim values enhance AI-driven NMR shimming" by M. Becker et al. [1].
 
 For more information about the subset, see https://doi.org/10.5445/IR/1000152278.
 
